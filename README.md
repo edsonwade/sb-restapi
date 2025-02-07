@@ -1,4 +1,4 @@
-# RestfulAPIs-With-Spring-Boot-2023
+# Rest APIs Spring Boot
 
 Welcome to the RestfulAPIs-With-Spring-Boot-2023 project! This repository serves as a comprehensive guide and implementation of Spring Boot from scratch in 2022.
 
